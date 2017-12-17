@@ -9,7 +9,7 @@ flags = [
         '-I./tests/unit',
         '-I./src/external',
         '-I./src/zlib',
-        '-I./tests/unit/gtest/include'
+        '-I./tests/external/gtest/include'
 ]
 
 
